@@ -1,0 +1,14 @@
+.back-ground{width: 1440px;
+    height: 447px;
+    flex-shrink: 0;
+    background: linear-gradient(229deg, #6888FF 12.77%, #5E80FF 73.11%);;}
+    .Get-started-now{color: #FFF;
+        text-align: center;
+        font-family: Quicksand;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;}
+        .text{width: 712px;
+            height: 78px;
+            flex-shrink: 0;}

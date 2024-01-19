@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <link rel="stylesheet" href="css.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form class="login">
+    <p> <b>write your user-name</b>
+        <input type="text" name="user-name" required class="input" placeholder="enter user-name"><br></p>
+        <p> <b>write ur login or new password</b>
+            <input type="password" name="password" required class="input" placeholder="enter your login"><br></p>
+           <p> <button class="btn">send</button></p>
+        </form>
+</body>
+</html>

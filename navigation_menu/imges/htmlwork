@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table class="table">
+        <tr class="border-bottom">
+            <th>lime</th>
+            <th class="border-left-right">lemon</th>
+            <th>orange</th>
+        </tr>
+        <tr>
+            <td class="green">green</td>
+            <td class="yellow border-left-rigth">yellow</td>
+            <td class="orange">orange</td>
+        </tr>
+    </table>
+</body>
+
+</html>

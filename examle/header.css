@@ -1,0 +1,25 @@
+header {
+    padding-top: 15px;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    min-height: 80px;
+}
+
+.header-content {
+    width: 90%;
+    margin: 00 auto;
+}
+
+.logo {
+    width: 26px;
+    height: 26px;
+    border-radius: 100%;
+    background: black;
+}
+
+.logo a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
